@@ -24,7 +24,6 @@ Of great importance are: opportunity for professional growth and development, fr
 - HTML
 - CSS
 - JavaScript
-- Python
 - Git, GitHub    
 - Touch typing skill
 - Adobe Photoshop
